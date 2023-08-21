@@ -21,7 +21,7 @@ pull request in amaci baskalarinin kodumuzu kontrol etmesini istemektir. collabo
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
 git checkout main
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
-git fetch, halihazirda bulunan bilgisayardaki repoyu cloud dakine esler, git merge branchleri birlestirmek icin kullanilir, git pull ise cloud daki repository'nin farkli branchlerini bilgisayarimiza cekmeye yarara
+git fetch, halihazirda bulunan bilgisayardaki repoyu cloud dakine esler ama branchi merge etmez, git merge branchleri birlestirmek icin kullanilir, git pull ise cloud daki repository'nin degisikliklerini alip merge ediyor.
 7. Merge conflict nedir?
 merge conflict ayni dosya uzerinde cakisma oldugunda ortaya cikar.
 8. Merge conflict'i nasıl çözeriz?
